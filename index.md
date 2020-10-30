@@ -1,3 +1,6 @@
+layout: rtl
+---
+
 <div class="center">
 ## رزومه عطیه فرخی
 <\div>
