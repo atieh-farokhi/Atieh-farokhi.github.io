@@ -1,16 +1,25 @@
 ## رزومه عطیه فرخی
    
+![GitHub Logo](<a href="https://uupload.ir/view/blov_72655819.jpg" target="_blank"><img src="https://uupload.ir/files/blov_72655819_thumb.jpg" border="0" alt="آپلود عکس" /></a>)
+Format: ![Alt Text](url)
+
+   
 سلام:) ازتون ممنونم که برای رزومه من وقت می ذارید 
 عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم
 
 https://github.com/atieh-farokhi!
 [GitHub](https://github.com/atieh-farokhi)
+
 https://instagram.com/atieh_frokhi
 [instagram](https://instagram.com/atieh_frokhi)
+
+
 https://twitter.com/atieh_frokhi
 [twitter](https://twitter.com/atieh_frokhi)
+
 https://fha_atie@yahoo.com
 [email](https://fha_atie@yahoo.com)
+
 (https://telegram.com/atieh_frokhi
 [telegram]((https://telegram.com/atieh_frokhi)
 
