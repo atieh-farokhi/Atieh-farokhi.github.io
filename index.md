@@ -3,7 +3,17 @@
 سلام:) ازتون ممنونم که برای رزومه من وقت می ذارید 
 عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://github.com/atieh-farokhi!
+[GitHub](https://github.com/atieh-farokhi)
+https://instagram.com/atieh_frokhi
+[instagram](https://instagram.com/atieh_frokhi)
+https://twitter.com/atieh_frokhi
+[twitter](https://twitter.com/atieh_frokhi)
+https://fha_atie@yahoo.com
+[email](https://fha_atie@yahoo.com)
+(https://telegram.com/atieh_frokhi
+[telegram]((https://telegram.com/atieh_frokhi)
+
 
 ### سوابق تحصیلی
   
