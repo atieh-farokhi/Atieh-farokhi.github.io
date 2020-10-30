@@ -8,16 +8,7 @@
 **عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی
 دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم**
 
-[GitHub](https://github.com/atieh-farokhi)
-
-[instagram](https://instagram.com/atieh_frokhi)
-
-[twitter](https://twitter.com/atieh_frokhi)
-
-[email](https://fha_atie@yahoo.com)
-
-[telegram](https://telegram.com/atieh_frokhi)
-
+[GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com) \ [telegram](https://telegram.com/atieh_frokhi)
 <a href="https://quera.ir/profile/fha_atie" target="_blank">صفحه من در وب سایت كوئرا</a>
 
 ### سوابق تحصیلی
