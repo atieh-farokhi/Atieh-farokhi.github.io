@@ -1,6 +1,8 @@
-                                                                         ## رزومه عطیه فرخی
+## رزومه عطیه فرخی
 
-You can use the [editor on GitHub](https://github.com/atieh-farokhi/atiehfarokhi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+سلام   ازتون ممنونم که برای رزومه من وقت می ذارید 
+عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی دارم.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
