@@ -1,20 +1,11 @@
-layout: rtl
----
-
-<div class="center">
 ## رزومه عطیه فرخی
-<\div>
-    
-<div dir="rtl">    
+   
 سلام:) ازتون ممنونم که برای رزومه من وقت می ذارید 
 عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<\div>
 
-<div class="center">
 ### سوابق تحصیلی
-<\div>
   
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
