@@ -18,6 +18,7 @@
 
 [telegram](https://telegram.com/atieh_frokhi)
 
+<a href="https://quera.ir/profile/fha_atie" target="_blank">صفحه من در وب سایت كوئرا</a>
 
 ### سوابق تحصیلی
   
