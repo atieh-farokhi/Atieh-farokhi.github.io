@@ -25,7 +25,6 @@
 
 ```markdown
 Syntax highlighted code white
-
 1. کارشناسی مهندسی کامپیوتر
 دانشگاه پیام نور واحد ری 
 ورودی سال 96
@@ -33,6 +32,8 @@ Syntax highlighted code white
 2. دیپلم ریاضی فیریک
 دبیرستان دخترانه کوثر
 اتمام سال 96
+
+```
 
 ```markdown
 Syntax highlighted code block
