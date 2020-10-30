@@ -14,7 +14,7 @@
 
 [email](https://fha_atie@yahoo.com)
 
-[telegram]((https://telegram.com/atieh_frokhi)
+[telegram](https://telegram.com/atieh_frokhi)
 
 
 ### سوابق تحصیلی
