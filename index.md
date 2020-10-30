@@ -22,7 +22,14 @@
 
 ### سوابق تحصیلی
   
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+1. کارشناسی مهندسی کامپیوتر
+دانشگاه پیام نور واحد ری 
+ورودی سال 96
+2. دیپلم ریاضی فیریک
+دبیرستان دخترانه کوثر
+اتمام سال 96
 
 ```markdown
 Syntax highlighted code block
