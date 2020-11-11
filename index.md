@@ -4,8 +4,8 @@ Atieh Farokhi, Born on December 15, 1998, Single, I am a sixth semester student 
 
 ### Personal Information
 
-- First Name: atie
-- Last Name: frokji
+- First Name: Atie
+- Last Name: Farokhi
 - Birth Date: 1998/12/15
 - Marriage Status: Single
 
