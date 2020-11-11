@@ -31,7 +31,7 @@ Atieh Farokhi, Born on December 15, 1998, Single, I am a sixth semester student 
 ### Licenses & Certifications
 
 - ICDL1 
--JavaScript
+- JavaScript
 
 ### Other Accounts
   [GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com) \ [telegram](https://telegram.com/atieh_frokhi)
