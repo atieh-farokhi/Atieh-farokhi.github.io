@@ -26,7 +26,7 @@ Atieh Farokhi, Born on December 15, 1998, Single, I am a sixth semester student 
 - Persian(Advanced)
 - English(Excellent)
 - Turkish(Normal)
--Arabic(normal)
+- Arabic(normal)
 
 ### Licenses & Certifications
 
