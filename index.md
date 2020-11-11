@@ -1,24 +1,39 @@
-## رزومه عطیه فرخی
-   
-<a href="https://uupload.ir/view/blov_72655819.jpg" target="_blank"><img src="https://uupload.ir/files/blov_72655819_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### About Me
 
-   
-**سلام:) ازتون ممنونم که برای رزومه من وقت می ذارید**
+Atieh Farokhi, Born on December 15, 1998, Single, I am a sixth semester student of Computer Engineering at Payame Noor University, Ray Branch, located in Tehran, and I have a strong interest in network security and programming.
 
-**عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی
-دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم**
+### Personal Information
 
-[GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com) \ [telegram](https://telegram.com/atieh_frokhi)
+- First Name: atie
+- Last Name: frokji
+- Birth Date: 1998/12/15
+- Marriage Status: Single
 
-<a href="https://quera.ir/profile/fha_atie" target="_blank">صفحه من در وب سایت كوئرا</a>
+### Skills
 
-### سوابق تحصیلی
++ Icdl 1&2
+
++C
+
++C++
+
++C#
+
++Html
+
+### Languages
+
+- Persian(Advanced)
+- English(Excellent)
+- Turkish(Normal)
+-Arabic(normal)
+
+### Licenses & Certifications
+
+- ICDL1 
+-JavaScript
+
+### Other Accounts
+  nothing
   
-
-```markdown
-
-1. **کارشناسی مهندسی کامپیوتر**
-**دانشگاه پیام نور واحد ری ورودی سال 96**
-
-2.**دیپلم ریاضی فیریک**
-**دبیرستان دخترانه کوثر اتمام سال 96**
+  Persian Resume: <a href=""> Resume </a>
