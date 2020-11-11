@@ -1,3 +1,4 @@
+<img src="https://avatars2.githubusercontent.com/u/17456882?s=400&u=965683c5ebb767e62e36eaca2fd33b678fcf891c&v=4"/>
 ### About Me
 
 Atieh Farokhi, Born on December 15, 1998, Single, I am a sixth semester student of Computer Engineering at Payame Noor University, Ray Branch, located in Tehran, and I have a strong interest in network security and programming.
